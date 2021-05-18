@@ -1,7 +1,7 @@
 # MY_RPG
 ![Cover](https://github.com/MaximeHff/my_rpg/blob/main/my_rpg.jpg)
 
-# PRECONDITIONS
+# REQUIREMENTS
 - Lib CSFML
 - GCC
 - MAKE
